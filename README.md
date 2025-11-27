@@ -1,4 +1,4 @@
-# Exercícios de Python – Estruturas Condicionais, Repetição, Listas e Dicionários
+# Exercícios de Python: Estruturas Condicionais, Repetição, Listas e Dicionários
 Este repositório contém quatro exercícios práticos desenvolvidos para o módulo de introdução à lógica de programação em Python.
 
 - Estruturas Condicionais
